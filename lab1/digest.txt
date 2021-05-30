@@ -1,0 +1,2 @@
+1 Node1CPU
+2 Node2RAMmb
